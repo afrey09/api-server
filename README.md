@@ -7,7 +7,7 @@
   Practice learning to swap out the route handler functions in favor of a Collection Interface
 
 ### Links and Resources
-GitHub Actions ci/cd
+GitHub Actions - https://github.com/afrey09/api-server/actions
 Prod back-end server url - https://api-server-n2om.onrender.com
 
 ### Setup
