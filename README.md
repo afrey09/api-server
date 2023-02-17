@@ -4,15 +4,15 @@
 
 ## Author: Adrienne Frey
 ### Problem Domain
-  Practice learning to build a REST API using express and creating endpoints that perform CRUD operations on a database
+  Practice learning to swap out the route handler functions in favor of a Collection Interface
 
 ### Links and Resources
 GitHub Actions ci/cd
-Prod back-end server url
+Prod back-end server url - https://api-server-n2om.onrender.com
 
 ### Setup
 .env requirements (where applicable)
-DATABASE_URL=postgres://localhost:5432/api-app
+DATABASE_URL=postgres://localhost:5432/api-server
 
 ## How to initialize/run your application (where applicable)
 e.g. npm start
